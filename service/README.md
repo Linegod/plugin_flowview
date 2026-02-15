@@ -78,4 +78,4 @@ To verify that the service is actually running as expected.
 To verify that the service is actually running as expected.
 
 -----------------------------------------------
-Copyright (c) 2004-2025 - The Cacti Group, Inc.
+Copyright (c) 2004-2026 - The Cacti Group, Inc.
